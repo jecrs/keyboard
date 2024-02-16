@@ -857,7 +857,7 @@ available for our hooks.
 
 ```py
 
-get_type_strings(record()) #-> ['This is what', 'I recorded', '']
+get_typed_strings(record()) #-> ['This is what', 'I recorded', '']
 ```
 
 
