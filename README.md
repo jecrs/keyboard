@@ -1,10 +1,6 @@
-**This project is currently unmaintained. It works for many cases, and I wish to pick it up again in the future, but you might encounter some friction and limited features using it.**
 
----
 
----
-
-keyboard
+keyboarded (a fork of boppreh's keyboard)
 ========
 
 Take full control of your keyboard with this small Python library. Hook global events, register hotkeys, simulate key presses and much more.
