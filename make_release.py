@@ -28,7 +28,7 @@ import os
 from subprocess import run, check_output
 import atexit
 import requests
-import keyboard
+import keyboarded as keyboard
 
 run(['make', 'clean', 'build'], check=True)
 
