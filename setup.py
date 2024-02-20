@@ -9,7 +9,7 @@ import keyboarded
 from setuptools import setup
 setup(
     name='keyboarded',
-    version=keyboard.version,
+    version=keyboarded.version,
     author='jecrs',
     author_email='jecrsouza@gmail.com',
     packages=['keyboarded'],
