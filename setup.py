@@ -20,7 +20,7 @@ setup(
 
     # Wheel creation breaks with Windows newlines.
     # https://github.com/pypa/setuptools/issues/1126
-    long_description=keyboard.__doc__.replace('\r\n', '\n'),
+    long_description=keyboarded.__doc__.replace('\r\n', '\n'),
     long_description_content_type='text/markdown',
 
     install_requires=["pyobjc; sys_platform=='darwin'"], # OSX-specific dependency
