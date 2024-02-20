@@ -8,13 +8,13 @@ import keyboard
 
 from setuptools import setup
 setup(
-    name='keyboard',
+    name='keyboarded',
     version=keyboard.version,
-    author='BoppreH',
-    author_email='boppreh@gmail.com',
-    packages=['keyboard'],
-    url='https://github.com/boppreh/keyboard',
-    license='MIT',
+    author='jecrs',
+    author_email='jecrsouza@gmail.com',
+    packages=['keyboarded'],
+    url='https://github.com/jecrs/keyboarded',
+    license='CC-BY-SA-4.0',
     description='Hook and simulate keyboard events on Windows and Linux',
     keywords = 'keyboard hook simulate hotkey',
 
