@@ -29,7 +29,7 @@ Install the [PyPI package](https://pypi.python.org/pypi/keyboarded/):
 
 or clone the repository (no installation required, source files are sufficient):
 
-    git clone https://github.com/boppreh/keyboard
+    git clone https://github.com/jecrs/keyboarded/
 
 or [download and extract the zip](TBL) into your project folder.
 
