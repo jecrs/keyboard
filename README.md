@@ -23,17 +23,17 @@ Take full control of your keyboard with this small Python library. Hook global e
 
 ## Usage
 
-Install the [PyPI package](https://pypi.python.org/pypi/keyboard/):
+Install the [PyPI package](https://pypi.python.org/pypi/keyboarded/):
 
-    pip install keyboard
+    pip install keyboarded
 
 or clone the repository (no installation required, source files are sufficient):
 
     git clone https://github.com/boppreh/keyboard
 
-or [download and extract the zip](https://github.com/boppreh/keyboard/archive/master.zip) into your project folder.
+or [download and extract the zip](TBL) into your project folder.
 
-Then check the [API docs below](https://github.com/boppreh/keyboard#api) to see what features are available.
+Then check the [API docs below](https://github.com/jecrs/keyboarded#api) to see what features are available.
 
 
 ## Example
